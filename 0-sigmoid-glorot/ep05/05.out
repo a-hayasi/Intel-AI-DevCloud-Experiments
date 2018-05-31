@@ -1,0 +1,27 @@
+nohup: ignoring input
+Using Theano backend.
+INFO (theano.gof.compilelock): Waiting for existing lock by process '3071' (I am process '2882')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/ahayasi/.theano/compiledir_Linux-4.15--generic-x86_64-with-debian-buster-sid-x86_64-3.6.5-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '2971' (I am process '2882')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/ahayasi/.theano/compiledir_Linux-4.15--generic-x86_64-with-debian-buster-sid-x86_64-3.6.5-64/lock_dir
+Starting process...
+Importing file:
+/home/ahayasi/Desktop/2-Experiments/Season2/Stacked_Autoencoder/Fit/0-mismatch/Standardized/mismatch_standardized_training_set.csv
+loss: 3.38%	acc: 96.20%	se: 95.79%	spc: 96.69%	pre: 96.34%	f1s: 95.95%
+loss: 3.81%	acc: 95.77%	se: 94.75%	spc: 96.92%	pre: 97.01%	f1s: 95.72%
+loss: 3.44%	acc: 96.26%	se: 95.33%	spc: 96.97%	pre: 96.89%	f1s: 95.99%
+loss: 2.71%	acc: 96.85%	se: 96.15%	spc: 97.73%	pre: 97.71%	f1s: 96.81%
+loss: 4.39%	acc: 95.12%	se: 96.28%	spc: 93.82%	pre: 93.98%	f1s: 94.99%
+loss: 3.34%	acc: 96.42%	se: 95.93%	spc: 97.00%	pre: 97.14%	f1s: 96.40%
+loss: 3.64%	acc: 95.88%	se: 94.93%	spc: 97.06%	pre: 96.86%	f1s: 95.75%
+loss: 4.12%	acc: 95.33%	se: 94.81%	spc: 95.69%	pre: 95.96%	f1s: 95.21%
+loss: 3.38%	acc: 96.09%	se: 95.77%	spc: 96.62%	pre: 96.83%	f1s: 96.20%
+loss: 3.86%	acc: 95.60%	se: 94.71%	spc: 95.81%	pre: 96.02%	f1s: 95.15%
+loss:  3.61% (+/- 0.45%)
+acc:   95.95% (+/- 0.49%)
+se:    95.45% (+/- 0.58%)
+spc:   96.43% (+/- 1.04%)
+pre:   96.47% (+/- 0.97%)
+f1s:   95.82% (+/- 0.55%)
+Process completed!
+Used time: 162 minutes and 57 seconds

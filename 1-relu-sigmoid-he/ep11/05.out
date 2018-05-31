@@ -1,0 +1,23 @@
+nohup: ignoring input
+Using Theano backend.
+Starting process...
+Importing file:
+/home/ahayasi/Desktop/2-Experiments/Season5/Stacked_Autoencoder/Fit/0-mismatch/mismatch_standardized_training_set.csv
+loss: 3.42%	acc: 96.31%	se: 95.96%	spc: 96.64%	pre: 96.47%	f1s: 96.11%
+loss: 3.87%	acc: 95.77%	se: 95.41%	spc: 96.31%	pre: 96.61%	f1s: 95.89%
+loss: 3.38%	acc: 96.47%	se: 95.29%	spc: 97.52%	pre: 97.19%	f1s: 96.11%
+loss: 2.93%	acc: 96.58%	se: 95.85%	spc: 97.50%	pre: 97.56%	f1s: 96.56%
+loss: 4.63%	acc: 94.90%	se: 94.63%	spc: 94.96%	pre: 95.19%	f1s: 94.72%
+loss: 3.82%	acc: 95.71%	se: 95.07%	spc: 96.47%	pre: 96.48%	f1s: 95.67%
+loss: 3.69%	acc: 95.77%	se: 94.35%	spc: 97.28%	pre: 97.09%	f1s: 95.54%
+loss: 3.75%	acc: 95.93%	se: 94.79%	spc: 97.17%	pre: 97.35%	f1s: 95.89%
+loss: 3.46%	acc: 96.09%	se: 95.19%	spc: 97.12%	pre: 97.43%	f1s: 96.18%
+loss: 4.01%	acc: 95.60%	se: 94.49%	spc: 96.22%	pre: 95.98%	f1s: 95.11%
+loss:  3.70% (+/- 0.43%)
+acc:   95.91% (+/- 0.46%)
+se:    95.10% (+/- 0.52%)
+spc:   96.72% (+/- 0.74%)
+pre:   96.74% (+/- 0.71%)
+f1s:   95.78% (+/- 0.51%)
+Process completed!
+Used time: 102 minutes and 0 seconds

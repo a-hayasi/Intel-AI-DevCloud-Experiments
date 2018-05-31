@@ -1,0 +1,33 @@
+nohup: ignoring input
+Using Theano backend.
+INFO (theano.gof.compilelock): Waiting for existing lock by process '31152' (I am process '31113')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/ahayasi/.theano/compiledir_Linux-4.15--generic-x86_64-with-debian-buster-sid-x86_64-3.6.5-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '31152' (I am process '31113')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/ahayasi/.theano/compiledir_Linux-4.15--generic-x86_64-with-debian-buster-sid-x86_64-3.6.5-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '31072' (I am process '31113')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/ahayasi/.theano/compiledir_Linux-4.15--generic-x86_64-with-debian-buster-sid-x86_64-3.6.5-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '31030' (I am process '31113')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/ahayasi/.theano/compiledir_Linux-4.15--generic-x86_64-with-debian-buster-sid-x86_64-3.6.5-64/lock_dir
+INFO (theano.gof.compilelock): Waiting for existing lock by process '31072' (I am process '31113')
+INFO (theano.gof.compilelock): To manually release the lock, delete /home/ahayasi/.theano/compiledir_Linux-4.15--generic-x86_64-with-debian-buster-sid-x86_64-3.6.5-64/lock_dir
+Starting process...
+Importing file:
+/home/ahayasi/Desktop/2-Experiments/Season2/Stacked_Autoencoder/Fit/0-mismatch/Standardized/mismatch_standardized_training_set.csv
+loss: 3.23%	acc: 96.31%	se: 96.46%	spc: 96.27%	pre: 96.03%	f1s: 96.12%
+loss: 3.27%	acc: 96.36%	se: 95.20%	spc: 97.62%	pre: 97.57%	f1s: 96.29%
+loss: 3.64%	acc: 95.88%	se: 94.96%	spc: 96.66%	pre: 96.61%	f1s: 95.65%
+loss: 2.86%	acc: 96.85%	se: 96.02%	spc: 97.83%	pre: 97.79%	f1s: 96.78%
+loss: 4.56%	acc: 95.01%	se: 95.23%	spc: 94.76%	pre: 95.01%	f1s: 94.97%
+loss: 3.68%	acc: 95.82%	se: 95.63%	spc: 96.22%	pre: 96.22%	f1s: 95.77%
+loss: 4.09%	acc: 95.50%	se: 94.08%	spc: 97.13%	pre: 96.70%	f1s: 95.25%
+loss: 4.08%	acc: 95.55%	se: 94.42%	spc: 96.73%	pre: 96.89%	f1s: 95.47%
+loss: 3.27%	acc: 96.31%	se: 95.60%	spc: 97.10%	pre: 97.40%	f1s: 96.41%
+loss: 3.96%	acc: 95.55%	se: 94.01%	spc: 96.35%	pre: 96.49%	f1s: 95.06%
+loss:  3.67% (+/- 0.49%)
+acc:   95.91% (+/- 0.52%)
+se:    95.16% (+/- 0.77%)
+spc:   96.67% (+/- 0.82%)
+pre:   96.67% (+/- 0.78%)
+f1s:   95.78% (+/- 0.58%)
+Process completed!
+Used time: 156 minutes and 37 seconds
